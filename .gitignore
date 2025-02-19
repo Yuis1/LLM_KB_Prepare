@@ -1,0 +1,8 @@
+# 忽略 input 目录下的所有文件
+input/*
+
+# 忽略 output 目录下的所有文件
+output/*
+
+
+.DS_Store
